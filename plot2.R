@@ -18,6 +18,3 @@ plot(household_power_n$DateTime, household_power_n$Global_active_power, ylab = "
 dev.off()
 
 
-
-#turning of device
-dev.off()
